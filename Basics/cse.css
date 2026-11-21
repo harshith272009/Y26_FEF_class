@@ -1,0 +1,11 @@
+body{
+	background-color:white;
+}
+.private{
+	color: blue;
+    	text-align:center;
+}
+.course{
+	color: red;
+    	text-align:center;
+}
